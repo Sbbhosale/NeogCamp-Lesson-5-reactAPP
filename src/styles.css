@@ -1,0 +1,16 @@
+.App {
+  max-width: 600px;
+  margin: auto;
+  padding: 2rem;
+}
+
+body {
+  font-family: "Lato", sans-serif;
+  background-color: lightblue;
+  font-weight: bold;
+}
+
+button {
+  font-weight: bold;
+  color: red;
+}
